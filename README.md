@@ -8,6 +8,17 @@ Module Développement Web (MIN 306) du « Master innovation &amp; transformatio
 > Il sera enseigné sous forme d’atelier à destination d’un public non technique en mettant en œuvre des méthodes agiles.
 > Ce cours sera utilisé pour produire et publier le site web de votre data story (MIN302).
 
+L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/2019](https://github.com/oncletom/m2-min-2018) ([lire leur journal de bord](https://github.com/oncletom/m2-min-2018/blob/master/JOURNAL.md#jeudi-29-novembre)).
+
+# Calendrier
+
+- Intro conjointe avec MIN 302 le jeudi 16 ou vendredi 17 janvier 2020 (par Skype)
+- Jeudi 23 janvier 2020 (après-midi)
+- Vendredi 24 janvier 2020 (après-midi)
+- Jeudi 6 février 2020 (après-midi)
+- Vendredi 7 février 2020 (après-midi)
+- Jeudi 5 mars 2020 (après-midi)
+
 # Thématiques de travail au choix
 
 ## Stress hydrique du bassin hydrologique de la rivière Drôme
