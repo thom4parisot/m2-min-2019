@@ -1,6 +1,6 @@
 # Module MIN 306 • Promo 2019/2020
 
-Module Développement Web (MIN 306) du « Master innovation &amp; transformation numérique »
+Module Développement Web (MIN 306) du « [Master innovation &amp; transformation numérique](https://www.sciencespo.fr/ecole-management-innovation/fr/formations/innovation-transformation-numerique.html) »
 
 > La programmation web est un outil puissant et pérenne pour diffuser de l'information, s’exprimer et créer des interfaces interactives.
 > Dans ce cours vous aurez une introduction pratique aux notions de programmation pour le web depuis le navigateur jusqu’au serveur.
