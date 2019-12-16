@@ -38,7 +38,7 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   - le code du lieu de décès
   - le numéro d'acte de décès
   
-  ## Performance énergétique des bâtiments
+## Performance énergétique des bâtiments
   
 > Il y a un sujet **performance énergétique** des bâtiments qui va émerger avec la mise à disposition de la base DPE de manière plus qualitative qu’actuellement. Ce sujet est a rapprocher du sujet des **transaction immobilières** car nous sommes sur des données dispo à l’adresse avec un **rattachement à la parcelle cadastrale** ce qui peut permettre de belles analyses
   
