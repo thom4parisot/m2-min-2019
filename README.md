@@ -44,5 +44,11 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   
 - **Jeu de données** : https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/
 
+## Fréquentation d'un espace de vie sociale
+
+- **Objectif** : toucher un public plus large en obtenant une vision plus fine de la fréquentation
+- **Site web** : [archijeux.org](https://archijeux.org)
+- **Jeu de données** : en cours d'obtention
+- **Rapport d'activité 2019/2020** : en cours d'obtention
 
 # Journal
