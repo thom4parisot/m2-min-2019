@@ -23,6 +23,9 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 
 ## Stress hydrique du bassin hydrologique de la rivière Drôme
 
+- **Jeux de données** :
+
+
 ## Personnes décédées depuis 1970
 
 - **Jeu de données** : https://www.data.gouv.fr/fr/datasets/fichier-des-personnes-decedees/
@@ -44,9 +47,14 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   
 - **Jeu de données** : https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/
 
-## Fréquentation d'un espace de vie sociale
+## Cartographier l'agriculture paysanne
 
-- **Objectif** : toucher un public plus large en obtenant une vision plus fine de la fréquentation
+- **Objectif** : en cours de définition
+- **Jeu de données** : en cours d'obtention
+
+## Fréquentation d'un café-jeu associatif
+
+- **Objectif** : l'espace de vie sociale touche un public plus large
 - **Site web** : [archijeux.org](https://archijeux.org)
 - **Jeu de données** : en cours d'obtention
 - **Rapport d'activité 2019/2020** : en cours d'obtention
