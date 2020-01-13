@@ -45,7 +45,9 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   
 > Il y a un sujet **performance énergétique** des bâtiments qui va émerger avec la mise à disposition de la base DPE de manière plus qualitative qu’actuellement. Ce sujet est a rapprocher du sujet des **transaction immobilières** car nous sommes sur des données dispo à l’adresse avec un **rattachement à la parcelle cadastrale** ce qui peut permettre de belles analyses
   
-- **Jeu de données** : https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/
+- **Jeu de données** :
+  - [Diagnostics de performance énergétique pour les logements](https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/)
+  - [Demandes de valeurs foncières](https://www.data.gouv.fr/en/datasets/demandes-de-valeurs-foncieres/)
 
 ## Cartographier l'agriculture paysanne dans la Drôme
 
