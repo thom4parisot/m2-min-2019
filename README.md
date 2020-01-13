@@ -47,10 +47,27 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   
 - **Jeu de données** : https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/
 
-## Cartographier l'agriculture paysanne
+## Cartographier l'agriculture paysanne dans la Drôme
 
-- **Objectif** : en cours de définition
-- **Jeu de données** : en cours d'obtention
+> La confédération paysanne est un syndicat agricole qui promeut des fermes à tailles humaines, ainsi qu'une agriculture respectueuse de l'environnement, des animaux et des personnes. 
+
+- **Objectif** : imprimer 2 fois par an une carte géographique qui représente les adhérent·es et leurs productions
+- **Site web** : [drome.confederationpaysanne.fr](http://drome.confederationpaysanne.fr)
+- **Questions auxquelles répondre** :
+  - où organiser des rencontres entre adhérent·es ?
+  - où organiser un événément pour recruter des adhérent·es ?
+  - qui peut mettre en lien avec qui ?
+  - trouver le/la réprésentant·e d'un canton lors d'une sollicitation de la [SAFER](https://www.safer.fr)
+- **Jeu de données** : diffusé en privé uniquement
+
+## Mettre en lien des porteur·ses de projet agricoles avec des paysan·nes déjà installés
+
+> L'Adear aide les porteur·ses de projet agricoles à s'installer. La Confédération Paysanne est en lien avec des fermes qui sont potentiellement à céder dans un futur plus ou moins proche.
+
+- **Objectif** : identifier vers quel·le(s) paysan·ne(s) se tourner pour reprendre une ferme
+- **Site web** : [jeminstallepaysan.org](https://www.jeminstallepaysan.org/drome)
+- **Jeu de données** : diffusé en privé uniquement
+
 
 ## Fréquentation d'un café-jeu associatif
 
