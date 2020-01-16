@@ -48,6 +48,12 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 - **Jeu de données** :
   - [Diagnostics de performance énergétique pour les logements](https://www.data.gouv.fr/fr/datasets/diagnostics-de-performance-energetique-pour-les-logements/)
   - [Demandes de valeurs foncières](https://www.data.gouv.fr/en/datasets/demandes-de-valeurs-foncieres/)
+  
+## Genre et jouets
+
+- **Jeu de données** : en cours d'obtention
+- **Lectures**
+  - [When did girls start wearing pink?](https://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/)
 
 ## Cartographier l'agriculture paysanne dans la Drôme
 
