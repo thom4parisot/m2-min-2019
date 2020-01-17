@@ -23,7 +23,20 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 
 ## Stress hydrique du bassin hydrologique de la rivière Drôme
 
+> Il a plu 15mm d’eau en juillet 2019 au niveau de la ville de Crest. Au même moment, 500 et 600 litres d’eau par seconde sont prélevés pour l'irrigation en aval de la ville. Chaque été, 92 % du territoire Drômois est en déficit quantitatif et pourtant, chaque été, la préfecture légalise l'utilisation de l'eau pour l'irrigation au-delà du débit minimum réservé (légal, et biologique).
+
 - **Jeux de données** :
+  - [Tracé de la rivière Drôme et de ses affluents](http://www.sandre.eaufrance.fr/geo/CoursEau/V42-0400) (base SANDRE)
+  - [Historique de débit et de hauteur de la Drôme à Saillans](http://www.hydro.eaufrance.fr/selection.php?station[]=V4264010&btnValider=Exporter&categorie=rechercher) (base HYDRO, création de compte nécessaire)
+  - [Points de prélèvements d'eau pour l'irrigation, en sous-sol et en surface](http://atom.geo-ide.developpement-durable.gouv.fr/atomArchive/GetResource?id=a8523472-743a-4c25-b5a8-38aec4a70ba9&dataType=dataset)
+  - Banque nationale des prélèvements d'eau : [Crest et alentours](https://bnpe.eaufrance.fr/acces-donnees/codeCommune/26108/annee/2017/etCommunesAdjacentes), [Allex et alentours](https://bnpe.eaufrance.fr/acces-donnees/codeCommune/26006/annee/2017/etCommunesAdjacentes), [Saillans et alentours](https://bnpe.eaufrance.fr/acces-donnees/codeCommune/26289/annee/2017/etCommunesAdjacentes) et [Die et alentours](https://bnpe.eaufrance.fr/acces-donnees/codeCommune/26113/annee/2017/etCommunesAdjacentes) — [Département de la Drôme](https://bnpe.eaufrance.fr/acces-donnees/codeDepartement/26/annee/2017)
+- **Lectures**:
+  - [Compte-rendu d'un débat citoyen autour de l'eau et de la rivière Drôme](https://hackmd.io/HkVUO7TTS)
+  - [Présentation sur la rareté de l'eau](http://www.riviere-drome.fr/upload/extranet/documents/Patrice%20Garin_SMRD_octobre19.pdf)
+  - [Présentation des enjeux stratégiques autour de la gestion de la rivière Drôme](http://www.riviere-drome.fr/upload/extranet/documents/Presentation_publique_20191002.pdf)
+  - Trajectoires d’adaptation au changement climatique dans la Vallée de la Drôme
+  - [Synthèse de l'état des lieux 2006-2016 du bassin versant de la Drôme](http://www.riviere-drome.fr/upload/extranet/documents/SYNTHESE_EL2018.pdf)
+  - [Données hydrométriques en temps-réel à Saillans](http://www.rdbrmc.com/hydroreel2/station.php?codestation=32)
 
 
 ## Personnes décédées depuis 1970
@@ -79,8 +92,15 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 
 ## Fréquentation d'un café-jeu associatif
 
+> Archi'jeux est un bar à jeux associatif qui fête ses 11 années d'activité. 600 membres, 3 salarié·es et des dizaines de bénévoles font tenir la boutique, ouverte au public 4 jours par semaine.
+
 - **Objectif** : l'espace de vie sociale touche un public plus large
 - **Site web** : [archijeux.org](https://archijeux.org)
-- **Jeu de données** : en cours d'obtention
-- **Rapport d'activité 2019/2020** : en cours d'obtention
+- **Jeu de données** :
+  - Historique des adhésions par année
+  - Historique de fréquentation (adultes, enfants) par créneau d'ouverture
+  - Historique des contributions bénévoles
+- **Lectures** :
+  - Bilan d'activité "Espace de Vie Sociale" (année 2019)
+  - Projet "Espace de Vie Sociale" (pour obtention de subvention CAF) 
 
