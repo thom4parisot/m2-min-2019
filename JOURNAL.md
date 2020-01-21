@@ -2,8 +2,6 @@
 
 > On écrit ici ce qu'on a vécu et appris au fil des sessions. Comme ça on s'améliore en marchant.
 
-# Introduction
-
 # Jeudi 23 janvier 2020
 
 # Vendredi 24 janvier 2020
