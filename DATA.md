@@ -1,5 +1,7 @@
 # Thématique des données à illustrer
 
+![](carte-drome-conf26.jpg)
+
 ## Stress hydrique du bassin hydrologique de la rivière Drôme
 
 > Il a plu 15mm d’eau en juillet 2019 au niveau de la ville de Crest.

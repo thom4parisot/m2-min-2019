@@ -23,6 +23,8 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 
 Elles sont développées dans le document [`DATA.md`](DATA.md).
 
+![](carte-drome-conf26.jpg)
+
 - [Stress hydrique du bassin hydrologique de la rivière Drôme](DATA.md#stress-hydrique-du-bassin-hydrologique-de-la-rivière-drôme)
 - [Personnes décédées depuis 1970](DATA.md#personnes-décédées-depuis-1970)
 - [Spéculation immobilière](DATA.md#spéculation-immobilière)
