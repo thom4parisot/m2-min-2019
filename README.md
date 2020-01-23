@@ -19,6 +19,26 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 - [Vendredi 7 février 2020](JOURNAL.md#vendredi-7-février-2020) (après-midi)
 - [Jeudi 5 mars 2020](JOURNAL.md#jeudi-5-mars-2020) (après-midi)
 
+# Ressources pour apprendre
+
+- HTML
+  - [Toutes les balises HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  - [balise `<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- CSS
+  - [Toutes les propriétés CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  - [Un jeu avec les sélecteurs CSS](https://flukeout.github.io/)
+- DOM (lire et modifier des éléments HTML en écrivant du JavaScript)
+  - [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+  - [document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+  - [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) et [querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) pour trouver un ou des éléments dans la page (en utilisant un sélecteur CSS)
+- JavaScript et Node.js
+  - [Livre Node.js par la pratique](https://oncletom.io/node.js/#chapitres)
+  
+# Groupes projets
+
+- [xyz](https://xyz.glitch.me)
+
+
 # Thématiques de travail au choix
 
 Elles sont développées dans le document [`DATA.md`](DATA.md).
@@ -32,3 +52,7 @@ Elles sont développées dans le document [`DATA.md`](DATA.md).
 - [Cartographier l'agriculture paysanne dans la Drôme](DATA.md#cartographier-lagriculture-paysanne-dans-la-drôme)
 - [Mettre en lien des porteur·ses de projet agricoles avec des paysan·nes déjà installés](DATA.md#mettre-en-lien-des-porteurses-de-projet-agricoles-avec-des-paysannes-déjà-installés)
 - [Fréquentation d'un café-jeu associatif](DATA.md#fréquentation-dun-café-jeu-associatif)
+
+# Thématiques de travail choisies
+
+
