@@ -33,16 +33,17 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   - [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) et [querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) pour trouver un ou des éléments dans la page (en utilisant un sélecteur CSS)
 - JavaScript et Node.js
   - [Livre Node.js par la pratique](https://oncletom.io/node.js/#chapitres)
-  
+
 # Groupes projets
 
-- [xyz](https://xyz.glitch.me)
-
+- [lebanese grocery shop](https://glitch.com/~lebanese-grocery-shop) - Par Publio, Telma et Marc
+- [Datachef](https://glitch.com/~datachef) - par Arthur, Hadrien, Linus et Louis
+- [Projet 🧟‍♂️](https://projet-deces.glitch.me) - Par Agathe, Jeanne, François et Alexis
+- [Projet sur les tweets de Donald Trump](https://glitch.com/~donald-tweetrump) - Par Michele, Énora, Rodolphe, Ali
 
 # Thématiques de travail au choix
 
 Elles sont développées dans le document [`DATA.md`](DATA.md).
-
 ![](carte-drome-conf26.jpg)
 
 - [Stress hydrique du bassin hydrologique de la rivière Drôme](DATA.md#stress-hydrique-du-bassin-hydrologique-de-la-rivière-drôme)
