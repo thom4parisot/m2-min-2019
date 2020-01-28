@@ -22,17 +22,39 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 # Ressources pour apprendre
 
 - HTML
-  - [Toutes les balises HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-  - [balise `<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+  - [Toutes les balises HTML](https://developer.mozilla.org/docs/Web/HTML/Element)
+  - [balise `<a>`](https://developer.mozilla.org/docs/Web/HTML/Element/a)
 - CSS
-  - [Toutes les propriétés CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  - [Toutes les propriétés CSS](https://developer.mozilla.org/docs/Web/CSS/Reference)
   - [Un jeu avec les sélecteurs CSS](https://flukeout.github.io/)
+  - [Transitionner d'un état vers un autre](https://developer.mozilla.org/docs/Web/CSS/transition)
+  - [Animer un élément](https://developer.mozilla.org/docs/Web/CSS/animation)
+  - [Transformer un élément](https://developer.mozilla.org/docs/Web/CSS/transform) (rotation, inclinaison, perspective 3D)
 - DOM (lire et modifier des éléments HTML en écrivant du JavaScript)
-  - [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
-  - [document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-  - [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) et [querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) pour trouver un ou des éléments dans la page (en utilisant un sélecteur CSS)
+  - [Element](https://developer.mozilla.org/docs/Web/API/Element)
+  - [document](https://developer.mozilla.org/docs/Web/API/Document)
+  - [querySelector()](https://developer.mozilla.org/docs/Web/API/Document/querySelector) et [querySelectorAll()](https://developer.mozilla.org/docs/Web/API/Document/querySelectorAll) pour trouver un ou des éléments dans la page (en utilisant un sélecteur CSS)
+- SVG (dessiner des images responsives, stylables et animables en CSS)
+  - [https://developer.mozilla.org/docs/Web/SVG](Documentation SVG)
+  - [balise `<circle>`](https://developer.mozilla.org/docs/Web/SVG/Element/circle)
+  - [balise `<text>`](https://developer.mozilla.org/docs/Web/SVG/Element/text)
+  - [Réaliser des icônes en SVG](https://fvsch.com/svg-icons/)
 - JavaScript et Node.js
   - [Livre Node.js par la pratique](https://oncletom.io/node.js/#chapitres)
+  
+# Ressources pour vos projets
+
+- Coordonnées GPS de communes
+  - Site laposte
+  - [Découpage région/départements/communes](https://geo.api.gouv.fr/decoupage-administratif/regions)
+  - [Géolocalisation à partir de Codes INSEE](https://geo.api.gouv.fr/adresse#csv-search)
+  - [Fichier Codes INSEE géolocalisés](http://www.nosdonnees.fr/dataset/donnes-gographiques-des-communes-par-code-insee) (peut-être pas à jour)
+  
+  
+# Questions / blocages
+
+> (section remplie par les étudiant·es)
+
 
 # Groupes projets
 
@@ -40,6 +62,7 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 - [Datachef](https://glitch.com/~datachef) - par Arthur, Hadrien, Linus et Louis
 - [Projet 🧟‍♂️](https://projet-deces.glitch.me) - Par Agathe, Jeanne, François et Alexis
 - [Projet sur les tweets de Donald Trump](https://glitch.com/~donald-tweetrump) - Par Michele, Énora, Rodolphe, Ali
+- [?](#) par ??
 
 # Thématiques de travail au choix
 
@@ -54,6 +77,5 @@ Elles sont développées dans le document [`DATA.md`](DATA.md).
 - [Mettre en lien des porteur·ses de projet agricoles avec des paysan·nes déjà installés](DATA.md#mettre-en-lien-des-porteurses-de-projet-agricoles-avec-des-paysannes-déjà-installés)
 - [Fréquentation d'un café-jeu associatif](DATA.md#fréquentation-dun-café-jeu-associatif)
 
-# Thématiques de travail choisies
 
 
