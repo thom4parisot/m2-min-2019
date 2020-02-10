@@ -1,0 +1,100 @@
+<style>
+  .flex-row {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    
+  }
+  
+  .flex-row article:nth-child(2) {
+  }  .flex-row article:nth-child(3) {
+    flex-grow: 1;
+    width: 50%;
+  }
+  
+  .flex-column {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .wrap {
+    flex-wrap: wrap;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: 25% 50%;
+    grid-template-rows: 50vh 20vh 10vh;
+    grid-gap: 5px;
+  }
+  article {
+    border: 1px dashed gray;
+  }
+  
+  .grid article:nth-child(n+3) {
+    background: blue;
+    color: white;
+  }
+  .grid article:nth-child(n+5) {
+    background: darkblue;
+  }
+
+</style>
+
+<main class="grid">
+
+  <article class="flex-column">
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+  
+  
+  <article class="">
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+  
+  
+  <article>
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+  
+  
+  <article>
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+  
+  
+  <article>
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+  
+  
+  <article>
+    <h2>Un Titre</h2>
+    
+    <p>
+      Du texte.
+    </p>
+  </article>
+</main>

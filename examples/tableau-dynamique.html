@@ -1,0 +1,75 @@
+<style>
+  table {
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 1em;
+  }
+  
+.table-striped tbody tr:not([hidden]):nth-of-type(2n+1) {
+    background-color: rgba(0,0,0,.05);
+}
+  
+  /*tr[hidden] {
+    display: table-row !important;
+    background: red;
+  }*/
+</style>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+  
+  </tbody>
+</table>
+
+<script>
+const data = [
+  
+  {
+    id: 2,
+    first_name: "Jacob",
+    last_name: "Thornton",
+    twitter: "@fat"
+  },
+  {
+    id: 1,
+    first_name: "Mark",
+    last_name: "Otto",
+    twitter: "@mdo"
+  },
+  {
+    id: 3,
+    first_name: "Larry",
+    last_name: "the Bird",
+    twitter: "@twitter"
+  }
+]
+
+const tbody = document.querySelector('table tbody')
+
+data
+  .filter(function(row){
+    return row.last_name.toLowerCase().includes('th')
+  })
+  .map(function(row){
+    row.twitter_link = `https://twitter.com/${row.twitter}`
+    return row
+  })
+  .forEach(function(row){
+    tbody.innerHTML += `<tr>
+        <th scope="row">${row.id}</th>
+        <td>${row.first_name}</td>
+        <td>${row.last_name}</td>
+        <td><a href="${row.twitter_link}">${row.twitter}</a></td>
+      </tr>`
+  })
+</script>

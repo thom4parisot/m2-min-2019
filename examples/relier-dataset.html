@@ -1,0 +1,58 @@
+ierrocer<dl>
+  
+</dl>
+
+
+<script>
+const légumes = [
+  { name: 'Salade laitue', mois: [5, 6], ingredient01: 'truc' },
+  { name: 'Aubergine', mois: [6, 7, 8] },
+  { name: 'Tomate', mois: [6, 8, 9] },
+  { name: 'Cornichon', mois: [6, 8, 9] },
+  { name: 'Oignon', mois: [4, 5, 6, 7, 8, 9] },
+  { name: 'Chou vert', mois: [11, 12, 1, 2] },
+]
+
+const recette = {
+  titre: 'Sandwich falafel',
+  ingredients: ['salade', 'tomate', 'oignon', 'falafel', 'galette de blé'],
+  prep_time_in_s: 1800 * 1000
+}
+
+// les mois en JavaScript vont de 0 à 11…
+const current_month = new Date().getMonth() + 1
+
+const dl = document.querySelector('dl')
+dl.innerHTML = `<dt>${recette.titre}</dt>`
+
+recette.ingredients.forEach(function(ingredient){
+  const dd = document.createElement('dd')
+  
+  /* c'est ici la partie intéressante pour lier les données */
+  const found_legume = légumes.find(function(légume) {
+    return légume.name.toLocaleLowerCase().includes(ingredient)
+    // return légume.name.toLocaleLowerCase() === ingredient
+  })
+  /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+
+  
+  if (found_legume) {
+    dd.innerHTML = `
+      ${found_legume.name}
+      (${found_legume.mois.includes(current_month) ? 'en saison' : 'hors-saison'})
+    `
+  }
+  else {
+    dd.innerHTML = ingredient
+  }
+  
+  dl.appendChild(dd)
+})
+  
+function getProduct (record) {
+  return Object.keys(record).filter(key => key.includes("ingredient")).map(key => record[key])
+}
+
+
+
+*/()/script>f

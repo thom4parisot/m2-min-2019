@@ -1,0 +1,54 @@
+<table>
+  <thead>
+    <tr>
+      <td>Bureau de vote</td>
+      <td>Commune</td>
+      <td>Adresse</td>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+  /*
+  canton_code: "59-27"
+circonscription_code: "59-11"
+code: "807"
+code_postal: "59000"
+commune: "LILLE"
+commune_code: "59350"
+complement1: ""
+complement2: ""
+geo_adresse: "Rue d'Iena 59000 Lille"
+geo_id: "59350_4658"
+geo_l4: "RUE D IENA"
+geo_l5: ""
+geo_ligne: "G"
+geo_score: "0.96"
+geo_type: "street"
+latitude: "50.621124"
+libelle: "ECOLE AMPERE"
+lieu_dit: ""
+longitude: "3.043027"
+num_voie: "64"
+voie: "RUE D'IENA"
+  */
+
+const table = document.querySelector('table tbody')
+d3.csv("data.csv").then(function(data){
+  let html = ''
+  
+  data.forEach(function(row){
+    html += `<tr>
+      <th>${row.libelle}</th>
+      <td>${row.commune}</td>
+      <td>${row.geo_adresse}</td>
+    </tr>`
+  })
+  
+  table.innerHTML = html
+})
+
+</script>

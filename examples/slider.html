@@ -1,0 +1,16 @@
+<input type="number" id="annees" min="1970" max="2020" value="1990">
+
+<output></output>
+
+<script>
+const input = document.querySelector('input[type]')
+const output = document.querySelector('output')
+
+function updateOutput () {
+  output.value = input.value
+}
+
+input.addEventListener('change', updateOutput)
+updateOutput()
+  
+</script>

@@ -106,14 +106,51 @@
 # Jeudi 6 février 2020
 
 ## Proposition de plan
-## Comment ça a été fait pour moi
+## Comment ça a été pour moi
+
+- ça va, on est encore dans les données, on y est presque
+- toujours Ok sur le format, ça laisse le temps d'avancer
+- c'était un peu dur de planifier alors qu'on est encore dans le nettoyage des données
+- cool d'avoir le temps pour travailler le matin — pratique parce qu'on est toutes là
+- bon équilibre entre travail perso/de groupe
+- étonnant de voir autant de monde à la bibliothèque à 9h15
+- faire la liste des tâches, je pensais que ça servirait pas à grand chose mais au final ça nous a pas mal aidé de les décortiquer pour en faire des petites taches, plus nombreuses, mais plus faisable
+- j'aime bien le format, d'avoir les mains dedans, un peu frustrant de se lancer mais bien de se débrouiller
+- je me suis formée à uMap, ça m'a permis de compléter mes skills toute seule — je sais comment je vais pouvoir l'intégrer au projet ; c'est plus clair sur comment je vais l'améliorer chez moi
+- on était parti sur quelque chose qui n'était pas très simple, on a réussi à fragmenter le projet (trouver les données, visualiser, intégrer dans une page web) — c'était compliqué de travailler avec les données européennes, mais agréable de réaliser qu'on avait accès à une infinité de données sur le climat… mais le format est bizarre/exotique
+- en étant patient, on a appris à travailler avec 2 formats (CDF et Grid) — j'avais jamais vu auparavant, bien documenté, exemples de code — aprem productive (on a passé la partie la plus dure)
+- j'aime bien le format, on a le temps alors qu'on a du mal à se retrouver ailleurs — maintenant on a un tableau très clair avec les données les plus importantes (plutôt 🔆)
+
+
 ## Qu'est-ce qu'on pourrait mieux faire la prochaine fois ?
+
+- tester de se regrouper par thématique (CSS pour la mise en page, lire des CSV) avant de se retrouver en équipe projet
+- avoir du temps pour bosser sur le projet dans la matinée
+
 
 # Vendredi 7 février 2020
 
 ## Proposition de plan
-## Comment ça a été fait pour moi
-## Qu'est-ce qu'on pourrait mieux faire la prochaine fois ?
+## Comment ça a été pour moi aujourd'hui ?
+
+- vraiment bien, challenge qui s'est terminé, un autre qui a émergé
+- toujours top le format
+- j'ai vraiment l'impression qu'on rentre dans le sujet, relativement efficace comme séance
+- c'était bien
+- j'ai vu plein de choses, tout est cassé mais c'est le jeu et on va réparer ça
+- je suis content de l'avancement de notre groupe, je sens que ça prend forme et qu'on a notre première itération
+- je trouve ça très stimulant d'être en autonomie et de voir les projets des autres (ça donne d'autres perspectives pour mon propre projet)
+- j'ai trouvé ça amusant de voir que tout était cassé, et la ligne de code d'après tout refonctionnait
+- je suis content qu'on a une roadmap mais on bloque sur plein de trucs backend qui ne sont pas très en relation avec le contenu du cours (y'a des fois l'aspect devops quand on n'est pas en cours)
+- globalement bonne journée, on a bien avancé — satisfaisant de s'être occupé des données, et là d'avoir une nouvelle visualisation dans le "projet final"
+- c'était intéressant de voir la réalisation, rigolo de partir d'un fichier Excel et que tout se connecte dans l'interface
+
+## Qu'est-ce que je voudrais changer la prochaine fois ?
+
+- pendant que je bossais, je suis passé à côté d'une explication  — la prochaine j'écouterai même si je ne me sens pas concerné
+- mieux penser les temps entre les cours — y'a beaucoup d'espacement avant le dernier cours — y compris avec le cours de dataviz
+- mieux expliquer le potentiel entre code et dataviz
+- alterner davantage dataviz et code
 
 # Jeudi 5 mars 2020
 

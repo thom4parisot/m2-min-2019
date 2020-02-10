@@ -1,6 +1,6 @@
 # Module MIN 306 • Promo 2019/2020
 
-Module Développement Web (MIN 306) du « [Master innovation &amp; transformation numérique](https://www.sciencespo.fr/ecole-management-innovation/fr/formations/innovation-transformation-numerique.html) »
+Module Développement Web (MIN 306) du « [Master innovation &amp; transformation numérique](https://www.sciencespo.fr/ecole-management-innovation/fr/formations/innovation-transformation-numerique.html) »
 
 > La programmation web est un outil puissant et pérenne pour diffuser de l'information, s’exprimer et créer des interfaces interactives.
 > Dans ce cours vous aurez une introduction pratique aux notions de programmation pour le web depuis le navigateur jusqu’au serveur.
@@ -19,10 +19,21 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 - [Vendredi 7 février 2020](JOURNAL.md#vendredi-7-février-2020) (après-midi)
 - [Jeudi 5 mars 2020](JOURNAL.md#jeudi-5-mars-2020) (après-midi)
 
+
+# Exemples de code HTML / CSS / JavaScript
+
+- [Remplir un tableau HTML avec des données structurées (à filtrer ou pas)](examples/tableau-dynamique.html)
+- [Calcul de distance entre 2 points](examples/distance.html)
+- [Scroll doux lors d'un clic sur un lien hypertexte](examples/scroll.html)
+- [Charger et interpréter des données CSV](examples/csv.html)
+- [Relier des données](examples/relier-datasets.html)
+
 # Ressources pour apprendre
 
 - HTML
   - [Toutes les balises HTML](https://developer.mozilla.org/docs/Web/HTML/Element)
+  - [balise `<a>`](https://developer.mozilla.org/docs/Web/HTML/Element/a) (lien hypertexte, vers une autre page, vers un autre endroit de la page)
+  - [balise `<datalist>`](https://developer.mozilla.org/docs/Web/HTML/Element/datalist) (auto-compléter sans JavaScript)
   - [balise `<a>`](https://developer.mozilla.org/docs/Web/HTML/Element/a)
 - CSS
   - [Toutes les propriétés CSS](https://developer.mozilla.org/docs/Web/CSS/Reference)
@@ -30,17 +41,29 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
   - [Transitionner d'un état vers un autre](https://developer.mozilla.org/docs/Web/CSS/transition)
   - [Animer un élément](https://developer.mozilla.org/docs/Web/CSS/animation)
   - [Transformer un élément](https://developer.mozilla.org/docs/Web/CSS/transform) (rotation, inclinaison, perspective 3D)
+  - [Transition lors d'un clic](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
+  - [Tronquer un élément en hauteur/largeur](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
+  - [Donner une hauteur/largeur/taille à un élément](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+  - [Organiser son contenu sur une **grille**](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Organiser son contenu avec **flexbox**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - DOM (lire et modifier des éléments HTML en écrivant du JavaScript)
   - [Element](https://developer.mozilla.org/docs/Web/API/Element)
   - [document](https://developer.mozilla.org/docs/Web/API/Document)
   - [querySelector()](https://developer.mozilla.org/docs/Web/API/Document/querySelector) et [querySelectorAll()](https://developer.mozilla.org/docs/Web/API/Document/querySelectorAll) pour trouver un ou des éléments dans la page (en utilisant un sélecteur CSS)
 - SVG (dessiner des images responsives, stylables et animables en CSS)
+  - [Documentation SVG](https://developer.mozilla.org/docs/Web/SVG)
   - [https://developer.mozilla.org/docs/Web/SVG](Documentation SVG)
   - [balise `<circle>`](https://developer.mozilla.org/docs/Web/SVG/Element/circle)
   - [balise `<text>`](https://developer.mozilla.org/docs/Web/SVG/Element/text)
   - [Réaliser des icônes en SVG](https://fvsch.com/svg-icons/)
 - JavaScript et Node.js
   - [Livre Node.js par la pratique](https://oncletom.io/node.js/#chapitres)
+  - [Calculer la distance en kilomètres entre 2 coordonnées GPS](https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates)
+  - [`[].map()` : Modifier les valeurs d'un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+  - [`[].find()` : Trouver une ligne dans un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+  - [`[].includes()` : Tester si une valeur est présente dans un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) (marche aussi pour du texte)
+  - [`[].filter()` : Filtrer les éléments d'un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+  - [`[].forEach()` : Parcourir un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
   
 # Ressources pour vos projets
 
@@ -62,12 +85,11 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 - [Datachef](https://glitch.com/~datachef) - par Arthur, Hadrien, Linus et Louis
 - [Projet 🧟‍♂️](https://projet-deces.glitch.me) - Par Agathe, Jeanne, François et Alexis
 - [Projet sur les tweets de Donald Trump](https://glitch.com/~donald-tweetrump) - Par Michele, Énora, Rodolphe, Ali
-- [?](#) par ??
+- [Projet](#) par Jules, Hany, Erik et Aurélie
 
-# Thématiques de travail au choix
+# Proposition de jeux de données
 
 Elles sont développées dans le document [`DATA.md`](DATA.md).
-![](carte-drome-conf26.jpg)
 
 - [Stress hydrique du bassin hydrologique de la rivière Drôme](DATA.md#stress-hydrique-du-bassin-hydrologique-de-la-rivière-drôme)
 - [Personnes décédées depuis 1970](DATA.md#personnes-décédées-depuis-1970)
