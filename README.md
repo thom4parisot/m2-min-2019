@@ -10,6 +10,15 @@ Module Développement Web (MIN 306) du « [Master innovation &amp; transformati
 
 L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/2019](https://github.com/oncletom/m2-min-2018) ([lire leur journal de bord](https://github.com/oncletom/m2-min-2018/blob/master/JOURNAL.md#jeudi-29-novembre)).
 
+**Sommaire**
+
+   * [Journal de bord](#journal-de-bord)
+   * [Ressources pour apprendre](#ressources-pour-apprendre)
+   * [Ressources pour vos projets](#ressources-pour-vos-projets)
+   * [Questions / blocages](#questions--blocages)
+   * [Groupes projets](#groupes-projets)
+   * [Thématiques de travail au choix](#thématiques-de-travail-au-choix)
+
 # Journal de bord
 
 - Présentation des jeux de données, le vendredi 17 janvier 2020 (par Skype)
@@ -67,7 +76,6 @@ L'organisation du cours sera basé sur les [apprentissages de la promotion 2018/
 # Thématiques de travail au choix
 
 Elles sont développées dans le document [`DATA.md`](DATA.md).
-![](carte-drome-conf26.jpg)
 
 - [Stress hydrique du bassin hydrologique de la rivière Drôme](DATA.md#stress-hydrique-du-bassin-hydrologique-de-la-rivière-drôme)
 - [Personnes décédées depuis 1970](DATA.md#personnes-décédées-depuis-1970)
@@ -76,6 +84,8 @@ Elles sont développées dans le document [`DATA.md`](DATA.md).
 - [Cartographier l'agriculture paysanne dans la Drôme](DATA.md#cartographier-lagriculture-paysanne-dans-la-drôme)
 - [Mettre en lien des porteur·ses de projet agricoles avec des paysan·nes déjà installés](DATA.md#mettre-en-lien-des-porteurses-de-projet-agricoles-avec-des-paysannes-déjà-installés)
 - [Fréquentation d'un café-jeu associatif](DATA.md#fréquentation-dun-café-jeu-associatif)
+
+![](carte-drome-conf26.jpg)
 
 
 
